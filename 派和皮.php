@@ -1,3 +1,3 @@
 <?php
-phpinfo();
+php9988fo();
 二位我
